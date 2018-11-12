@@ -1,3 +1,5 @@
-# pacman
+# Pacman
 
-# prac code
+# Java
+
+# Simulating Pacman's movement across a grid
